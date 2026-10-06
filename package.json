@@ -1,5 +1,5 @@
 {
-  "name": "anatomy-viewer",
+  "name": "anatomy-viewer-v2",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -9,14 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@react-three/drei": "^9.122.0",
-    "@react-three/fiber": "^8.18.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "three": "^0.180.0"
+    "three": "^0.180.0",
+    "@react-three/fiber": "^8.18.0",
+    "@react-three/drei": "^9.122.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.7.0",
-    "vite": "^7.1.0"
+    "vite": "^7.1.0",
+    "@vitejs/plugin-react": "^4.7.0"
   }
 }

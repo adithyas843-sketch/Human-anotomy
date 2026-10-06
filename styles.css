@@ -1,5 +1,5 @@
-body{margin:0;background:#050b14;color:white;font-family:Arial}
+body{margin:0;font-family:Arial;background:#08111d;color:white}
 .app{display:flex;height:100vh}
-.sidebar{width:280px;padding:20px;background:#0d1524}
-main{flex:1}
+.sidebar{width:280px;background:#101a2a;padding:20px}
+.viewer{flex:1}
 canvas{width:100%!important;height:100%!important}
